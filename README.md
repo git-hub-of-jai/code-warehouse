@@ -271,11 +271,3 @@
 ## License
 
 Distributed under the [MIT](https://opensource.org/licenses/MIT/) License. See [LICENSE.txt](https://gitee.com/modernwms/ModernWMS/blob/master/LICENSE) for more information.This must be observed.
-
-## Donate
-
-If it's helpful to you, you can donate us by alipay,by wechat. Your support will encourage us to continue creating
-
-<img src="alipay.jpg" alt="image3" height="auto" />
-<img src="wechat.jpg" alt="image4" height="auto" />
-
